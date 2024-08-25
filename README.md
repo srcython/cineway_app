@@ -1,6 +1,6 @@
 # Cineway Movie App
 
-The Cineway application is a feature-rich movie guide developed with Kotlin, utilizing a multi-module architecture and modern Android technologies to deliver an immersive experience for discovering and exploring movies.
+The Cineway application is a feature-rich movie guide developed with Kotlin, leveraging modern Android technologies to deliver an immersive experience for discovering and exploring movies.
 
 ## Screenshots
 
