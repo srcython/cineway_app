@@ -15,6 +15,7 @@ The Cineway application is a feature-rich movie guide developed with Kotlin, uti
 <img src="https://github.com/user-attachments/assets/6dbcf693-7e27-4aee-9d0b-f2a4e1f4c0cf" alt="Screenshot 6" width="200" style="margin-right:20px;">
 <img src="https://github.com/user-attachments/assets/4e2b7c58-d4b9-468c-b81f-356313e793fd" alt="Screenshot 7" width="200" style="margin-right:20px;">
  </p>
+ 
 ## Technologies Used
 
 The project utilizes several modern technologies and libraries to provide a robust and efficient solution. Here are the key technologies used:
